@@ -1,0 +1,14 @@
+.btn-blue{
+	background-color: #E85A4F;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: "Raleway";
+	margin-bottom: 40px;
+	
+}
+.btn-blue:hover{
+	color: white;
+	font-weight: bold;
+}
+
